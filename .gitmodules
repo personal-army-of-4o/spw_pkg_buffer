@@ -1,0 +1,3 @@
+[submodule "PipelineC"]
+	path = PipelineC
+	url = https://github.com/JulianKemmerer/PipelineC.git
